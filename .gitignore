@@ -1,0 +1,23 @@
+#OS junk files
+Thumbs.db
+*.DS_Store
+
+/.vs
+.vscode/
+.idea/
+.vs/
+*.iml
+*.patch
+*.swp
+
+.sass-cache
+npm-debug.log
+node_modules
+bower_components
+
+/out
+/lib
+/media
+/assets/fonts/*.b64
+/public
+package-lock.json

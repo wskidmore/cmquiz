@@ -1,0 +1,30 @@
+{
+  "name": "cm-quiz",
+  "version": "1.0.0",
+  "description": "Classical Music Quiz",
+  "scripts": {
+    "start": "webpack-dev-server --content-base build/ --port 3000"
+  },
+  "dependencies": {
+    "babel-runtime": "6.23.0",
+    "jss": "6.5.0",
+    "material-ui": "1.0.0-alpha.20",
+    "material-ui-icons": "1.0.0-beta.17",
+    "react": "15.5.4",
+    "react-dom": "15.5.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.2.10",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.5.0",
+    "file-loader": "^1.1.5",
+    "html-webpack-plugin": "2.22.0",
+    "webpack": "^2.2.0",
+    "webpack-dev-server": "2.3.0"
+  },
+  "author": "William Skidmore",
+  "license": "MIT"
+}
